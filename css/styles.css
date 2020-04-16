@@ -173,3 +173,27 @@ margin-top: 1rem;
 .end-page{
     /* color: #feffff; */
 }
+
+
+/* testimonials */
+
+#testimonials{
+    text-align: center;
+    background-color: #2b7a78;
+    /* background-color: #3aafa9; */
+    padding: 2% 7%;
+}
+
+.test-para{
+    width: 80%;
+    margin:auto;
+    color: #feffff;
+    font-size: 2.5rem;
+
+}
+
+.test-img{
+    width: 10%;
+    padding:1rem;
+    border-radius:100%;
+}
