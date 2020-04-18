@@ -162,6 +162,31 @@ margin-top: 1rem;
 /* .reg-box{
     padding: 2% 7%;
 } */
+
+
+/* card registration */
+
+.cardcol{
+    padding:2.5%;
+}
+
+#card-reg{
+    background-color: #def2f1;
+    text-align: center;
+
+}
+
+.head-col{
+    background-color: #17252a;
+    color: #feffff;
+}
+
+.body-col{
+    background-color: #def2f1;
+    text-align: center;
+}
+
+
 /* SIGNATURE */
 
 #signature {
